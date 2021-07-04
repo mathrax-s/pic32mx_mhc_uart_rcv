@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="dist/default/debug/serial_test.X.debug.elf">                 
+    <memory name="program">                 
+      <units>bytes</units>                 
+      <length>33936</length>                 
+      <used>8372</used>                     
+      <free>25564</free>                     
+    </memory>                              
+    <memory name="data">              
+      <units>bytes</units>                 
+      <length>8704</length>                 
+      <used>1424</used>                     
+      <free>7280</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 
