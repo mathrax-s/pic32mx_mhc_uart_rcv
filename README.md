@@ -1,1 +1,1 @@
-# PIC32MXとHarmony3のシリアル通信
+# PIC32MX+Harmony3 : UART Receive
